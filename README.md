@@ -1,7 +1,7 @@
 # Hi, I'm Wang 👋
 
 🎓 Electrical & Electronic Engineering and Economics @ NTU  
-🤖 Building systems at the intersection of **Machine Learning, AI Agents, Finance, and Applied Mathematics**  
+🤖 Building systems at the intersection of **Machine Learning, AI Agents, and Finance**  
 🧠 Interested in **optimization, intelligent systems, deep learning, and economics**
 
 ---
